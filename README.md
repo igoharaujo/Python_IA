@@ -44,7 +44,7 @@ Não está explícito no código fornecido.
 - Os modelos são testados usando dados de teste e suas precisões são calculadas.
 - Os dados dos novos clientes do arquivo `novos_clientes.csv` são importados e preparados.
 - O modelo de Árvore de Decisão é utilizado para fazer previsões sobre os novos clientes.
-- 
+
 <div align=center>
 
 ## Exemplo:
