@@ -2,26 +2,22 @@
 
 # Projeto: Análise de Score de Crédito com IA
 
-Para este projeto, usaremos as bases de dados fictícias `clientes.csv` e `novos_clientes.csv`.
+</div>
+
+Para este projeto, usei as bases de dados fictícias [clientes.csv](/codigo.ipynb) e [novos_clientes.csv](/codigo.ipynb).
 
 Este código foi desenvolvido no Jupyter Notebook e utiliza as seguintes bibliotecas:
 
 - **Pandas**: Para manipulação e análise de dados.
 - **Scikit-learn**: Para construção e avaliação de modelos de Machine Learning.
 
-## Scripts
-
-
-|Arquivos   |Clique aqui|
-|-----------|-----------|
-|Codigo     |[Clique aqui](/codigo.ipynb)|
-|Clientes   |[Clique aqui](/clientes.csv)|
-|Novos Clientes     |[Clique aqui](/novos_clientes.csv)|
 
 
 <div align=center>
 
 ## Passo a Passo do Projeto
+
+</div>
 
 ### 1. Entendendo o Desafio da Empresa
 
@@ -48,8 +44,12 @@ Não está explícito no código fornecido.
 - Os modelos são testados usando dados de teste e suas precisões são calculadas.
 - Os dados dos novos clientes do arquivo `novos_clientes.csv` são importados e preparados.
 - O modelo de Árvore de Decisão é utilizado para fazer previsões sobre os novos clientes.
+- 
+<div align=center>
 
 ## Exemplo:
+
+</div>
 
 Suponha que temos um arquivo CSV chamado `clientes.csv` com informações sobre clientes, incluindo sua profissão, mix de crédito e comportamento de pagamento. E um arquivo chamado `novos_clientes.csv` contendo informações sobre novos clientes para os quais desejamos fazer previsões.
 
@@ -57,12 +57,12 @@ Após importar e preparar os dados do arquivo `clientes.csv`, o modelo é treina
 
 Posteriormente, o modelo de Árvore de Decisão é usado para fazer previsões sobre os novos clientes fornecidos no arquivo `novos_clientes.csv`. As previsões indicarão os possíveis scores de crédito (Good, Standard, Poor) para os novos clientes com base nos dados fornecidos.
 
-</div>
+
 
 <div align=center>
 
 
-## Contatos
+## Redes
 
 |  [![Linkedin](/1_img/icone-linkedin.png)](https://www.linkedin.com/in/igor-ferreira-desenvolvedor/)| [![Instagram](/1_img/icone-instagram.png)](https://www.instagram.com/igoh_araujo/) 
 |-----------|-----------|
