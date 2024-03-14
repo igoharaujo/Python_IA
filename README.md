@@ -15,8 +15,8 @@ Este código foi desenvolvido no Jupyter Notebook e utiliza as seguintes bibliot
 |Arquivos   |Clique aqui|
 |-----------|-----------|
 |Codigo     |[Clique aqui](/codigo.ipynb)|
-|Clientes   |[Clique aqui](/2_Scripts/2_Insert_dados_de_teste.sql)|
-|Novos Clientes     |[Clique aqui](/2_Scripts/3_Views.sql)|
+|Clientes   |[Clique aqui](/clientes.csv)|
+|Novos Clientes     |[Clique aqui](/novos_clientes.csv)|
 
 
 <div align=center>
