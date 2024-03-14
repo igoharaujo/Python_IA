@@ -1,3 +1,5 @@
+<div align=center>
+
 # Projeto: Análise de Score de Crédito com IA
 
 Para este projeto, usaremos as bases de dados fictícias `clientes.csv` e `novos_clientes.csv`.
@@ -6,6 +8,18 @@ Este código foi desenvolvido no Jupyter Notebook e utiliza as seguintes bibliot
 
 - **Pandas**: Para manipulação e análise de dados.
 - **Scikit-learn**: Para construção e avaliação de modelos de Machine Learning.
+
+## Scripts
+
+
+|Arquivos   |Clique aqui|
+|-----------|-----------|
+|Codigo     |[Clique aqui](/codigo.ipynb)|
+|Clientes   |[Clique aqui](/2_Scripts/2_Insert_dados_de_teste.sql)|
+|Novos Clientes     |[Clique aqui](/2_Scripts/3_Views.sql)|
+
+
+<div align=center>
 
 ## Passo a Passo do Projeto
 
@@ -42,3 +56,15 @@ Suponha que temos um arquivo CSV chamado `clientes.csv` com informações sobre 
 Após importar e preparar os dados do arquivo `clientes.csv`, o modelo é treinado usando dois algoritmos diferentes: Random Forest Classifier e K-Nearest Neighbors Classifier. Em seguida, esses modelos são testados usando dados de teste e suas precisões são calculadas.
 
 Posteriormente, o modelo de Árvore de Decisão é usado para fazer previsões sobre os novos clientes fornecidos no arquivo `novos_clientes.csv`. As previsões indicarão os possíveis scores de crédito (Good, Standard, Poor) para os novos clientes com base nos dados fornecidos.
+
+</div>
+
+<div align=center>
+
+
+## Contatos
+
+|  [![Linkedin](/4_img/icone-linkedin.png)](https://www.linkedin.com/in/igor-ferreira-desenvolvedor/)| [![Instagram](/4_img/icone-instagram.png)](https://www.instagram.com/igoh_araujo/) 
+|-----------|-----------|
+
+</div>
