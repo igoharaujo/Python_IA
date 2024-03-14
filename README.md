@@ -64,7 +64,7 @@ Posteriormente, o modelo de Árvore de Decisão é usado para fazer previsões s
 
 ## Contatos
 
-|  [![Linkedin](/4_img/icone-linkedin.png)](https://www.linkedin.com/in/igor-ferreira-desenvolvedor/)| [![Instagram](/4_img/icone-instagram.png)](https://www.instagram.com/igoh_araujo/) 
+|  [![Linkedin](/1_img/icone-linkedin.png)](https://www.linkedin.com/in/igor-ferreira-desenvolvedor/)| [![Instagram](/1_img/icone-instagram.png)](https://www.instagram.com/igoh_araujo/) 
 |-----------|-----------|
 
 </div>
