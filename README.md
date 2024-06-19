@@ -1,6 +1,6 @@
 <div align=center>
 
-# Projeto: Análise de Score de Crédito com IA
+# Projeto: Análise de Score de Crédito
 
 </div>
 
@@ -21,17 +21,17 @@ Este código foi desenvolvido no Jupyter Notebook e utiliza as seguintes bibliot
 
 ### 1. Entendendo o Desafio da Empresa
 
-A tarefa é criar um modelo de IA que analise o score de crédito dos clientes e os classifique nas categorias Good, Standard ou Poor.
+A tarefa é criar um modelo de machine learning(ML) que analise o score de crédito dos clientes e os classifique nas categorias Good, Standard ou Poor.
 
 ### 2. Importando a Base de Dados
 
 O código importa os dados dos clientes do arquivo CSV `clientes.csv`.
 
-### 3. Preparando a Base de Dados para a IA
+### 3. Preparando a Base de Dados para a ML
 
 Os dados categóricos são convertidos em numéricos usando o Label Encoder para as colunas 'profissao', 'mix_credito' e 'comportamento_pagamento'.
 
-### 4. Criando um Modelo de IA
+### 4. Criando um Modelo de ML
 
 São criados dois modelos de classificação: Random Forest Classifier e K-Nearest Neighbors Classifier.
 
@@ -39,7 +39,7 @@ São criados dois modelos de classificação: Random Forest Classifier e K-Neare
 
 Não está explícito no código fornecido.
 
-### 6. Utilizando a IA para Fazer Previsões
+### 6. Utilizando tecnicas de aprendizagem para Fazer Previsões
 
 - Os modelos são testados usando dados de teste e suas precisões são calculadas.
 - Os dados dos novos clientes do arquivo `novos_clientes.csv` são importados e preparados.
